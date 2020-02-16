@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About Myself"
-date:   2020-02-14 18:00:00 -0600
+date:   2020-02-14 17:00:00 -0600
 categories: others
 ---
 
